@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Hanzolol13
-- 👀 I’m interested in thru hiking
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Hanzolol13/Hanzolol13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
