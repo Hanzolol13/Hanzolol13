@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hanzolol13
-- 👀 I’m interested in Through hiking
+- 👀 I’m interested in thru hiking
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
